@@ -1,0 +1,8 @@
+{
+  "name": "Pizza",
+  "version": "1.0.0",
+  "description": "Realtime Pizza Delivery App",
+  "main": "index.js",
+  "author": "Irfan",
+  "license": "MIT"
+}
